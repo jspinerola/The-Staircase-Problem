@@ -1,4 +1,4 @@
-public class Main {
+public class InClassAssignment6_Julian_Spindola {
     public static void main(String[] args) {
         int[] array = {5, 2, 4, 3, 1};
         for (int element:
