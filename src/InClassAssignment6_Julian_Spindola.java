@@ -8,7 +8,7 @@ public class InClassAssignment6_Julian_Spindola {
         System.out.println();
         sort(array, array.length);
         for (int element:
-             array) {
+                array) {
             System.out.print(element + " ");
         }
     }
